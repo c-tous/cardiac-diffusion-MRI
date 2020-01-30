@@ -1,2 +1,2 @@
 # cardiac-diffusion-MRI
-Diffusion weighted and tensor imaging in the heart (myocardium)
+Diffusion weighted imaging (DWI) and diffusion tensor imaging (DTI) in the heart (myocardium)
