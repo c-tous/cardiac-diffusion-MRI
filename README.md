@@ -6,7 +6,7 @@ Please, cite:
 "Ex vivo Magnetic Resonance Diffusion Weighted Imaging in Congenital Heart Disease, an Insight into the Microstructures of Tetralogy of Fallot, Biventricular and Univentricular Systemic Right Ventricle" (C Tous, T. Gentles, A. Young, B. Pontre, 2020), Journal of Cardiovascular Magnetic Resonance Imaging
 
 This repository contains or will contain:
-- the sequences' diagram, bmatrix, M0-M1-M2, velocity shift and Maxwell gradient moment of the Spin Echo monopolar, Spin Echo bipolar, Stimulated Echo Acquisition Mode monopolar, Twice refocused and Twice refocused adjusted
+- the sequence's diagram, bmatrix, M0-M1-M2, velocity shift and Maxwell gradient moment of the Spin Echo monopolar, Spin Echo bipolar, Stimulated Echo Acquisition Mode monopolar, Twice refocused and Twice refocused adjusted
 - the diffusion weighted images of the congenital heart disease (CHD) specimens presented in the article from C. Tous et al (2020). 
 - the tractography of the CHD specimens presented in the article from C. Tous et al (2020). 
 - the fitting model of the microstructure in the CHD specimens (HA, TA, E2A) from C. Tous et al (2020).
