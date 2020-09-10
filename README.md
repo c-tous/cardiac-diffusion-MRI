@@ -12,7 +12,11 @@ This repository contains or will contain:
 - the fitting model of the microstructure in the CHD specimens (HA, TA, E2A) from C. Tous et al (2020).
 - the post processing code to analyse the cardiac diffusion tensor images. 
 
-For detailed information on the CHD specimens, please refer to the publication C. Tous et al (2020) in JCMR
+For detailed information on the CHD specimens, please refer to the publication C. Tous et al (2020) in JCMR. 
+
+Dr Cyril Tous's thesis is available at 
+https://books.google.ca/books/about/Evaluation_of_Myocardial_Microstructure.html?id=3SVOzQEACAAJ&redir_esc=y 
+https://researchspace.auckland.ac.nz/handle/2292/49218
 
 More about this repository: 
 
